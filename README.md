@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# react-hooks-mern-testing
+Curso completo de React con Hooks y Functional Components. Incluye Context API, Redux, Router, MERN, Bootstrap, autenticación JWT y Google, unit tests con Jest y React Testing Library, animaciones, despliegues, Git/GitHub.
+>>>>>>> cb905f90f64af3d68326d0844ea35d760f4eeb84
